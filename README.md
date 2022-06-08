@@ -1,4 +1,9 @@
 # Prabu-War
-pygame
 
-1. python3 main.py
+Percobaan pembuatan game dengan python pygame
+
+How to use?
+
+```
+python3 main.py
+```
